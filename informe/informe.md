@@ -9,7 +9,7 @@ Comunicación Asertiva para la Transferencia de Conocimiento Técnico
 GRUPO 5
 
 Integrantes:  
-Martin 202500120  
+Martin Emanuel Jolomocox Jeataz \- 202500120  
 David Eduardo Zamora Rodas \- 202504011  
 Victoria  
 Nicolas Esteban Ordoñez Ostuma \-202501389  
@@ -171,7 +171,7 @@ El avance de la Inteligencia Artificial (IA) exige una infraestructura física m
 
 # FODA por Integrante
 
-**Martin**  
+**Martin Emanuel Jolomocox Jeataz**  
 **Fortalezas:** Me sentí preparado y dominaba el tema. A pesar de los nervios iniciales, logré reponerme y continuar con mi explicación. Realicé una actividad interactiva sobre cómo la IA nos engaña y ejercicios de contabilidad donde participaron 4 personas. Cuando mis compañeros se incorporaron, me sentí más relajado.  
 **Oportunidades:** Practicar más la exposición frente a grupos grandes para controlar los nervios. Colocar mi material de apoyo en un lugar visible. Memorizar mejor la estructura para no depender del cartel. Realizar más ensayos con público real. Trabajar en técnicas de respiración antes de exponer.  
 **Debilidades:** Los nervios me afectaron al inicio. Sentí que me trababa al hablar. Dependía del cartel de apoyo y no lo tenía a la vista. La cantidad de personas me intimidó.  
@@ -322,7 +322,7 @@ Recorte imprevisto del tiempo de exposición.
 | :---- | :---- | :---- |
 | Beverlhy Contreras | Cartel / Premios | 100% |
 | Nicolás esteban ordoñez | Cartel | 100% |
-| Martin  | Cartel | 100% |
+| Martin Emanuel Jolomocox Jeataz | Cartel | 100% |
 | Eduardo Zamora | Cartel/refacción | 100% |
 | Victoria García  | Cartel | 100% |
 | Mario Mendoza | Cartel / Refacción | 100% |
