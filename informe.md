@@ -63,7 +63,7 @@ Usar estas herramientas de forma responsable no implica rechazarlas ni evitarlas
 La IA resulta verdaderamente valiosa cuando no la usamos únicamente para obtener resultados ya terminados. En vez de pedirle que escriba un trabajo completo, conviene aprovecharla para discutir ideas, solicitar explicaciones sencillas de temas complicados mediante analogías, o incluso pedirle que cuestione nuestros propios argumentos para detectar debilidades. Se trata de pasar de seguir instrucciones sin pensar a mantener una actitud curiosa y activa frente al aprendizaje.
 
 
-# ¿La IA siempre tiene la razón? Cómo verificar sus respuestas — Victoria
+# ¿La IA siempre tiene la razón? Cómo verificar sus respuestas — Victoria Yannarett Garcia Gómez
 
 Se plantea la idea de que, a pesar de la percepción de que la IA es infalible debido a su rapidez y capacidad de procesamiento, no siempre proporciona información veraz.
 
@@ -85,7 +85,7 @@ Sin embargo, uno de los principales riesgos es depender demasiado de la IA. Si e
 También es importante desarrollar un criterio propio. La IA no siempre tiene la razón, por lo que sus respuestas deben analizarse y compararse con otras fuentes. En materias como historia, ciencias, matemáticas o programación, es conveniente comprobar los resultados utilizando libros, apuntes, documentación oficial o las explicaciones del profesor.
 En conclusión, utilizar la Inteligencia Artificial de manera inteligente para estudiar significa aprovechar sus capacidades para comprender mejor, practicar, organizarse, resolver dudas y detectar errores, pero manteniendo siempre la participación activa del estudiante. La IA puede ser un excelente apoyo educativo cuando se utiliza para aprender y no simplemente para obtener respuestas. El objetivo principal debe ser que el estudiante termine una sesión de estudio entendiendo más de lo que sabía antes y siendo capaz de resolver problemas por sí mismo.
 
-# IA y pensamiento crítico: ¿quién piensa, tú o la IA? 
+# IA y pensamiento crítico: ¿Quién piensa, tú o la IA? 
 
 El avance masivo de los modelos de lenguaje y herramientas de inteligencia artificial generativa ha transformado el ecosistema educativo. Mientras que tradicionalmente la tecnología funcionaba como un soporte para la búsqueda de información (motores de búsqueda, enciclopedias digitales), la IA actual genera respuestas estructuradas, redacta ensayos y resuelve problemas complejos en segundos.
 
@@ -183,6 +183,7 @@ El avance de la Inteligencia Artificial (IA) exige una infraestructura física m
 **Amenazas:** En las amenazas, las distracciones en la sala y el ruido de fondo ayudaron un poco a que me pusiera nervioso o desconcentrarme. Además, al revisar el tiempo y notar que iba un poco rápido, mi  nerviosismo aumentó aún más. Ser consciente de estos problemas me ayudaran a prepararme en futuras presentaciones.
 
 **Victoria Yannarett Garcia Gómez**  
+
 **Fortalezas:**
 
 * Logras transmitir ideas complejas.  
