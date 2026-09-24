@@ -48,9 +48,8 @@ Enseñar a los estudiantes a utilizar la IA como una herramienta o asistente de 
 
 # Subtemas Desarrollados
 
-# IA: herramienta para aprender, no para hacer todo por nosotros — Martin
+# IA: herramienta para aprender, no para hacer todo por nosotros — Martin Emanuel Jolomocox Jeataz
 
-La IA como herramienta para aprender, no para hacer todo por nosotros  
 Para mi exposición decidí hablar sobre el uso responsable de la inteligencia artificial en la educación, porque siento que es un tema que nos toca a todos como estudiantes. La IA ya llegó para quedarse, y la pregunta ya no es si deberíamos usarla, sino cómo la estamos usando. Si la usamos bien, puede ser como un tutor disponible a toda hora, que nos explica un tema las veces que hagan falta y se adapta a nuestro ritmo. Pero si la usamos mal, se convierte en un atajo que nos da la respuesta sin que aprendamos nada. Al final, la diferencia no está en la herramienta, sino en cómo decidimos usarla.
 
 Usarla bien significa apoyarnos en ella para entender mejor un concepto, resolver una duda puntual o revisar lo que ya hicimos. Delegarle el pensamiento es pedirle que haga todo el trabajo sin que nosotros lleguemos a comprender el contenido. Es muy distinto preguntarle a la IA cómo pensar que pedirle que piense por nosotros.
