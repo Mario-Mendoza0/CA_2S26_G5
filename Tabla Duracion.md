@@ -4,13 +4,13 @@ La duración aproximada de la conferencia será de 60 minutos, distribuidos de l
 
 | ACTIVIDAD | TIEMPO APROXIMADO |
 | :---- | :---- |
-| Introducción | 5 minutos |
-| IA: herramienta para aprender, no para hacer todo por nosotros | 8 minutos |
-| ¿Copiar o aprender? El uso ético de IA – David | 8 minutos |
-| ¿La IA siempre tiene la razón? Cómo verificar sus respuestas — Victoria | 8 minutos |
-| Subtema 4 | 8 minutos |
-| Subtema 5 | 8 minutos |
-| Subtema 6 | 6 minutos |
+| Introducción| 5 minutos |
+| Sub tema 1 | 8 minutos |
+| Sub tema 2 | 8 minutos |
+| Sub tema 3 | 8 minutos |
+| Sub tema 4 | 8 minutos |
+| Sub tema 5 | 8 minutos |
+| Sub tema 6 | 6 minutos |
 | Actividades y participación | 6 minutos |
 | Reflexión y cierre | 4 minutos |
 | **Total** | **60 minutos** |
