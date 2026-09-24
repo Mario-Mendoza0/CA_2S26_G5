@@ -287,11 +287,34 @@ Recorte imprevisto del tiempo de exposición.
 
 # Material Didáctico Utilizado
 
-![][image1]
+<img width="1148" height="1600" alt="92d7e9c8-2bd6-4868-8f53-50d2aa3f2fcb" src="https://github.com/user-attachments/assets/e03f1cd8-c7f1-4371-a939-702a7196087f" />
 
-![][image2]
+<img width="256" height="617" alt="4b16112e-b0c9-49de-a1e5-37b48a480957" src="https://github.com/user-attachments/assets/93f6a386-03b4-4906-9997-333716a65e86" />
 
-![][image3]
+
+<img width="1158" height="887" alt="deb11a59-e07c-4cfb-a1da-149a0ed37624" src="https://github.com/user-attachments/assets/831084c6-c91e-4837-977d-14cdc1a7c073" />
+
+<img width="323" height="425" alt="6cb3e796-b617-4293-90ba-d5883d439e49" src="https://github.com/user-attachments/assets/495a7299-d60e-4e22-a20d-04e4d8c923aa" />
+
+<img width="353" height="500" alt="c28231ba-b60c-466a-8213-6cfbc0a1739d" src="https://github.com/user-attachments/assets/1c1d4df3-f3fe-4f6a-8496-7730efe2c533" />
+
+<img width="900" height="1600" alt="9aac3b7f-755e-4743-b61d-5d8d53a61fcd" src="https://github.com/user-attachments/assets/6bfa522e-7db6-4854-8788-35b1b193de6c" />
+
+<img width="343" height="410" alt="2d373626-eef5-4e92-b447-fb929d4c8c48" src="https://github.com/user-attachments/assets/e08498c7-b320-4dab-a415-b6e5b52b7191" />
+<img width="603" height="339" alt="52af2d3c-5b9a-4a3c-bd47-3ad318710cc9" src="https://github.com/user-attachments/assets/9f806432-af29-4cc0-b219-22addee346c1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Tabla de Porcentaje de Participación
 
