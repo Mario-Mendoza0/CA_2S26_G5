@@ -282,6 +282,8 @@ Recorte imprevisto del tiempo de exposición.
 # Link del video
 
 [https://youtu.be/7Vg-zTwpxlo?si=SVUuaAnrTZDqv8EA](https://youtu.be/7Vg-zTwpxlo?si=SVUuaAnrTZDqv8EA)
+https://youtu.be/RvmQ61B3wQg?si=KrD4KuGM7bb9cMgC
+
 
 # Anexos
 
