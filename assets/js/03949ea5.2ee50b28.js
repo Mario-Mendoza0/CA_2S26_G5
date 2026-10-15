@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmi_sitio=self.webpackChunkmi_sitio||[]).push([["620"],{7925(e){e.exports=JSON.parse('{"metadata":{"permalink":"/CA_2S26_G5/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
