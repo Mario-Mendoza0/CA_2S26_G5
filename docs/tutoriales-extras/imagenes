@@ -1,0 +1,14 @@
+---
+sidebar_position: 1
+---
+
+# Manejo de imagen
+
+1. Carpeta dentro de docs
+
+![ALT img](./img/localeDropdown.png) // elinar barras despues
+
+2. Carpeta `static`
+
+
+//<img src="/CA_2S26_G5/imagenes/img.jpg" alt="Descripción de la imagen" /> 

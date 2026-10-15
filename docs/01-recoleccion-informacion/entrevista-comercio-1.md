@@ -1,0 +1,47 @@
+---
+sidebar_position: 1
+---
+
+
+# Entrevista - Comercio 1: TACOUSAC
+
+## Datos Generales del Comercio
+- **Tipo de Comercio:** Taquería tradicional de comida rápida.
+- **Ubicación / Entorno:** Sector universitario (25 años de trayectoria en el área).
+- **Giro de Negocio:** Venta de tacos preparados, bebidas y complementos.
+- **Operación:** Concentración masiva de ventas durante las horas pico (almuerzo y cena).
+
+---
+
+## Hallazgos y Puntos de Dolor Principales
+1. **Atención en Horas Pico:** El 80% del volumen de venta diario se concentra en franjas de tiempo muy reducidas, requiriendo máxima velocidad en la toma e ingreso de órdenes.
+2. **Control de Inventario y Rendimiento:** Se maneja la porción de carne mediante una tasa de rendimiento aproximada ($3.2$ porciones por libra), la cual requiere monitoreo para evitar pérdidas o faltantes.
+3. **Pérdidas e Insumos:** Antecedentes de desabastecimiento ocasional de materia prima y vulnerabilidad ante robos o fugas de insumos.
+4. **Registros:** Transición progresiva desde el registro mental o en libreta hacia la necesidad de un sistema digitalizado de fácil manejo.
+
+---
+
+## Transcripción Completa de la Entrevista
+
+* **00:00** — **Interviewer:** Bueno, queremos hablar sobre la operación diaria. Primero que nada, ¿cómo es un día normal de trabajo desde que abren hasta que cierran el negocio? Hoy en día. Ajá, hoy en día. No sé si puede darnos dos perspectivas: cuando está toda la U abierta y otra hora, cuando está toda la U abierta y otra hora? 
+  * **Propietario:** Cuando la U está abierta somos un equipo de aproximadamente 9 a 10 personas para que funcione el mecanismo. Ahorita solo somos 3. ¿Y cómo es el trabajo en sí?
+
+* **00:40** — La verdad es que lo que nosotros pretendemos es atender más rápido, porque entre más rápido se atiende se logra alcanzar más gente, porque son horas, digamos, pico las que se atienden: la hora de almuerzo, la hora de la cena y un poquito en el desayuno. Entonces se cocina tal vez el 80%; se prepara el 80% en una cocina y se viene a despachar aquí. Aquí solo cocinamos prácticamente; toda la preparación es en otros lados: salsas, carnes, esa zona y todo. Aquí solo se viene a preparar prácticamente. ¿Todas esas preparaciones son diarias? No, no, no; o sea, digamos, el adobado, todo lo que es, se prepara por semana. Ahora, lo que sí es, digamos, salsas y carne, suele ser casi diario.
+
+* **01:34** — Y, igual, la compra de insumos se hace, digamos, una compra semanal. Se procura comprar lo menos posible diario, pero sí, siempre se necesita hacer una compra diaria. Lo menos posible diario, pero sí, siempre se necesita hacer una compra diaria. Ok, ¿qué tarea siente que hace una y otra vez, como repetitiva? Ok. Pueden ser las dos perspectivas: la de usted en su área o en general y de todo. Prácticamente, como se vende, se tiene que hacer todos los días. Digamos, los lunes se tiene una tarea, los martes otra. Y suelen ser cada día las mismas tareas.
+
+* **02:11** — ¿Y esas tareas no se le hacen un poco tediosas hacerlas diario? Procuramos hacerlas, digamos, una vez por semana, pero el día que toca hacerlo, toca volverlo a hacer el mismo día. La tercera pregunta es: ¿en qué actividades siente que se le va el tiempo? Por semana, pero, digamos, el día que toca hacerlo, toca volverlo a hacer el mismo día. Ok. La tercera pregunta es: ¿en qué actividades siente que se le va el tiempo? ¿O que no avanza muy rápido? En el tráfico. Porque igual hay que menear el producto. Entonces, donde más se pierde o se vuelve tedioso es el tráfico. Ok. Ahora mis compañeros van a hablar.
+
+* **02:49** — ¿Qué es lo que más le cuesta a usted controlar así en su día a día? ¿Como dueño o como trabajador? Como dueño y trabajador. Desde los dos puntos de vista. Como trabajador, porque ahora me toca trabajar, porque no tengo personal. La limpieza. A mí me cuesta trabajar, porque no tengo personal: la limpieza. O sea, a mí me cuesta hacerlo ordenado. O sea, siempre lucho con eso. Y ahora lo que es sazonar, siempre se me da. Ahora, como dueño, pues siempre el personal, intentando controlar. Controlar siempre, porque hay diferentes tipos de caracteres. Suele ser un poco distraído, entonces ahí es donde los empleados suelen tener ventajas.
+
+* **03:29** — ¿Ha tenido algún problema con algún empleado? En los 25 años de estar aquí, un montón. Un montón. ¿Hay algún problema? El económico. Cuando he encontrado gente robándome es bien deprimente, porque suelo tener bastante confianza con la gente y es bien triste darse cuenta de que le hagan un daño. ¿Y qué errores son los que más frecuentemente pasan en su negocio? Se me olvidan las cosas. Dejo, digamos, por ejemplo, dejo... Digamos, hoy dejé el picante, o sea, el galón de picante. O dejo de comprar algo; o sea, suelo tener listas y no las tengo. Entonces yo voy y lo hago todo por otra razón. Entonces lo olvido.
+
+* **04:11** — Si tuviera la capacidad de optimizar algo, ¿en qué lo haría? He optimizado bastante; por ejemplo, implementar sistemas de cobro y cosas que me han ayudado años. ¿Qué sistema de cobro utiliza actualmente? He usado dos: uno que compré y uno que me regalaron, de una empresa que se llama como ellos. Utilizar un sistema para facilitarme manejar inventarios. Ahorita no lo estoy usando al 100%, pero el año pasado sí me ayudó mucho: la forma de tener un control sobre el dinero. Sí teníamos problemas a la hora de cobrar, porque se trabajaba de una forma empírica; o sea, yo todo lo tenía en la mente o lo juntaba en cuadernos o cosas así. En cambio, ahí sí sé cuánto se vendió y sé cuánto se tendría que...
+
+* **05:02** — Es más directo el cobro. Primero empecé con una gran computadora; ahora se maneja un celular. O sea, ahí mantiene los pedidos, los que son pedidos y cuánto lleva. Podría manejar pedidos aquí también; podría manejar pedidos e inventarios. Yo le voy a hacer unas preguntas, pero sobre los clientes. ¿Cómo maneja usted la experiencia del cliente desde que viene? Como les dije al principio, aquí, digamos, el cliente viene. El 80% de los clientes vienen de 7:30 a 8:30 y media, a 2:30 de la tarde, y en la noche igual; son horas pico. Entonces, lo que yo necesito es implementar una forma más rápida de preparar y cobrar, para poder agarrar más gente, porque ese es el...
+
+* **05:56** — Aprovechar las horas pico digamoslo así. Exacto, porque, digamos, después se van. ¿Cuáles son las horas más silenciosas, entonces? De diez y media, digamos de nueve y media a once de la mañana; de tres de la tarde a cinco y media. Ya a las seis empiezan a venir los que en la noche van; todos suelen ir. Entonces son las horas más silenciosas. Gracias. Bueno, lo que hablábamos: el registro que se tiene con sus órdenes. Antes lo hacía a cuaderno o a mente. Sí, o sea, digamos, antes se cobraba sin ningún sistema de cobro. Solo había un cajero que cobraba y sumaba a mente, porque ya ni calculadora se usaba. Se toma práctica; tenían mucha práctica para hacerlo, pero no se compara a un sistema más práctico.
+
+* **06:50** — Ahora solo la última sección es sobre las preguntas de la especialidad. Yo quisiera que me cuente un poco de cómo usted decidió hacer el menú de tacos de... ¿Cómo llegaron a tantas opciones? Esas ideas de cada menú. Quisiera que me cuente. Pues la verdad, como taquerías hay miles, ¿verdad? Entonces es mentira que uno diga uno sin ver. O sea, suele uno como imitar. ¿Imitar? Imitar empresas más grandes, ¿verdad? O sea, es lo que más me ha ayudado. O sea, a ver, digamos, una vez que fui a México me traje, por ejemplo, esta salsa, digamos, estas pachas; los venden en el pinche, los cambiaba porque antes tenía como... Entonces nos ayudaron a que permanezcan más limpias. Suele tener una tendencia a copiarlo de otras empresas. Pero alguna receta así que... Ah, no, sí, el adobado es mío. O sea, el adobado yo, o sea, cuando yo empecé lo hice por medio de un amigo que él ya llevaba años en eso. Él me dio una receta; yo le fui cambiando, digamos, le quité la chote porque la chote suele repetirse mucho. Entonces, una de las mejores críticas que yo tengo eso: o sea, sus tacos no se repiten, pero no se repiten porque no tienen chocolate. O sea, por ejemplo, eso. Esa es su especialidad. O sea, digamos, cómo empezó todo. Casi cambiando poco a poco, pero, digamos, al pastor es una receta que viene.
+
+* **08:36** — ¿Cómo organiza los ingredientes, complementos, tortillas y cebollas durante las horas de mayor trabajo? Desde ahorita, si se dan cuenta, ahorita es mínimo, pero yo me estoy preparando con la carne, digamos, a la hora del almuerzo. Yo voy a estar, para no estar coriendo. Igual es cuando hay más gente, solo que cambian el tiempo. Por ejemplo, este que estaba así, ahorita ven para 150 porciones; ahorita preparé para 40. Porque todo es... Pero todos igual nos preparamos con sal, con cebolla. Todo listo, vamos, para al momento que caiga gente. Como les dije, atender lo más rápido posible para poder avanzar más. Yo le quería preguntar cómo controla cuánto lleva cada taco o algo. Si tengo... yo tengo un cálculo, digamos, porción o sea por libras. 3.2 porciones por libra. Yo traigo 100 libras; o sea, a mí me tienen que salir 3.2 porciones por libra. O sea, si yo traigo 100 libras, pues 320 porciones. Entonces yo me manejo un parámetro, más 10, menos 10, porque es imposible decir que va a ser exacto, porque la comida es difícil de negociar. Pero ese parámetro no se me puede ni exceder, porque si no, sí estoy mal, estoy dando mal. Yo tengo un cálculo que me tiene que dar 3.2.
